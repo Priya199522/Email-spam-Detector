@@ -1,10 +1,8 @@
 # Email-spam-Detector
+• Collected an email dataset from the web and conducted comprehensive data cleaning and preprocessing to prepare it for analysis and modeling.
 
+• Performed Exploratory Data Analysis (EDA) to understand patterns in spam vs. non-spam emails using seaborn and matplotlib for visual insights.
 
-• The dataset is collected from web.
-• The data was cleaned and processed and analysed before EDA.
-• Scikit learn, pandas, numpy, matplotlib and seaborn used for model building, 
-  analysis, predictive modelling and visualization.
-• Classified the emails, simplified the data.
-• Converted data into integers and build Logistic Regression model with 90% 
-  accuracy.
+• Preprocessed text data by simplifying and converting it into numerical form (tokenization and vectorization).
+
+• Used scikit-learn, pandas, and NumPy to build and train a Logistic Regression model, achieving 90% accuracy in classifying emails as spam or not.
